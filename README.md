@@ -25,4 +25,4 @@ The total commits is : 5
 
 ****** Side Note ******
 
-I had began working on this application without starting a Repo for it, and so when I completed it, I pasted in the documents and their contents so that I could have some what of a commit history. 
+I had began working on this application without starting a Repo for it, and so when I completed it, I pasted in the documents and their contents so that I could have some what of a commit history.
