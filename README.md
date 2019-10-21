@@ -21,7 +21,7 @@ This website was built using HTML5, CSS3, JavaScript and Bootstrap4. The applica
 
 The project was first pushed to GitHub on Oct. 20 2019 and the last commit was on Oct. 21 2019.
 
-The total commits is : 5
+The total commits is : 7
 
 ****** Side Note ******
 
